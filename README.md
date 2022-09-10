@@ -1,6 +1,6 @@
-### Eth Interop Keys
+### Eth Interop Keystore
 
-Creates interop key keystore files
+Creates interop keystore files
 
 ```
 node index.js create --help

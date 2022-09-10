@@ -1,5 +1,5 @@
 {
-  "name": "eth-interop-keys",
+  "name": "eth-interop-keystores",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
