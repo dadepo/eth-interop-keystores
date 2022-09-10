@@ -1,0 +1,14 @@
+{
+  "name": "eth-interop-keys",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@chainsafe/as-sha256": "^0.3.1",
+    "@chainsafe/bls": "7.1.0",
+    "@chainsafe/bls-keystore": "3.0.0",
+    "@lodestar/utils": "^1.0.0",
+    "yargs": "^17.5.1"
+  }
+}
