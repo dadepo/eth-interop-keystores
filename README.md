@@ -16,3 +16,11 @@ Options:
   --out       directory to generate the keystore files. if none is given, it is
               generated inside ./keystores                              [string]
 ```
+
+#### Run via npx
+
+```
+➜  eth_key npx eth-interop-keystores create --count=4 --password="pass"
+➜  eth_key ls keystores
+keystore_interop_0.json keystore_interop_1.json keystore_interop_2.json keystore_interop_3.json
+```

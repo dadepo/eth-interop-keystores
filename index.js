@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {toBufferBE} from "bigint-buffer";
 import {digest} from "@chainsafe/as-sha256";
 import bls from "@chainsafe/bls";
